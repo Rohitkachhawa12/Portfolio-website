@@ -20,13 +20,13 @@
         <div id="menu" class="fas fa-bars"></div>
         <nav class="navbar">
             <ul>
-            <li><a href="/#home">Home</a></li>
-            <li><a href="/#about">About</a></li>
-            <li><a href="/#skills">Skills</a></li>
-            <li><a href="/#education">Education</a></li>
-            <li><a href="/#work">Work</a></li>
-            <li><a class="active" href="/#experience">Experience</a></li>
-            <li><a href="/#contact">Contact</a></li>
+            <li><a href="../index.php">Home</a></li>
+            <li><a href="../index.php">About</a></li>
+            <li><a href="../index.php">Skills</a></li>
+            <li><a href="../index.php">Education</a></li>
+            <li><a href="../projects/index.php">Work</a></li>
+            <li><a href="index.php">Experience</a></li>
+            <li><a href="../index.php">Contact</a></li>
             </ul>
         </nav>
 </header>
@@ -107,8 +107,8 @@
       <div class="box">
           <h3>contact info</h3>
           <p> <i class="fas fa-phone"></i>+91 704-302-4736</p>
-          <p> <i class="fas fa-envelope"></i>jigarsable21@gmail.com</p>
-          <p> <i class="fas fa-map-marked-alt"></i>Pune, India-412206</p>
+          <p> <i class="fas fa-envelope"></i>rohitkachhawa095@gmail.com</p>
+          <p> <i class="fas fa-map-marked-alt"></i>Madhya Pradesh, India-412206</p>
           <div class="share">
 
             <a href="linkedin.com/in/rohit-kachhawa-b31b22281" class="fab fa-linkedin" target="_blank"></a>
@@ -120,7 +120,7 @@
       </div>
   </div>
 
-  <h1 class="credit">Designed with <i class="fa fa-heart pulse"></i> by <a href="https://www.linkedin.com/in/jigar-sable"> Rohit Kachhawa</a></h1>
+  <h1 class="credit">Designed with <i class="fa fa-heart pulse"></i> by <a href="#"> Rohit Kachhawa</a></h1>
 
 </section>
 <!-- footer section ends -->
